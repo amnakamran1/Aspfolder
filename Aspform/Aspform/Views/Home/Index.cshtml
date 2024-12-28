@@ -1,0 +1,32 @@
+﻿@model Aspform.Models.Student;
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+   
+<div class="container">
+    <div class="row">
+        <div class="col-lg-8 text-center" >
+            <h1>Form</h1>
+            <form class="d-grid" asp-action="Index" asp-controller="Home" method="post">
+                <input asp-for="Name" placeholder="Name" class="form-control"/>
+                <span asp-validation-for="Name" style="color:red"></span>
+                <br />
+                <input asp-for="Email" placeholder="Email" class="form-control" />
+                <span asp-validation-for="Email" style="color:red"></span>
+                <br />
+                <input asp-for="Age" placeholder="Age" class="form-control" />
+                <span asp-validation-for="Age" style="color:red"></span>
+                <br />
+              <select asp-for="gender" class="form-control" asp-items="Html.GetEnumSelectList<Gender>()">
+                  <option>Select Gender</option>
+              </select>
+                <br />
+                <input type="submit" value="Submit" class="btn btn-outline-primary " />
+                @Html.Raw(@ViewData["SuccessMessage"])
+            </form>
+
+        </div>
+    </div>
+</div>
+
