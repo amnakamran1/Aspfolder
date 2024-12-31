@@ -1,12 +1,37 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Desktop\\aspfolder\\WebApply\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\km\\OneDrive\\Desktop\\aspfolder\\WebApply\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11ED8B8B-E45A-4DD3-9E92-6AED98EBD2D9}|WebApply\\WebApply.csproj|c:\\users\\km\\onedrive\\desktop\\aspfolder\\webapply\\webapply\\controllers\\studapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11ED8B8B-E45A-4DD3-9E92-6AED98EBD2D9}|WebApply\\WebApply.csproj|solutionrelative:webapply\\controllers\\studapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudAPIController.cs",
+              "DocumentMoniker": "C:\\Users\\km\\OneDrive\\Desktop\\aspfolder\\WebApply\\WebApply\\Controllers\\StudAPIController.cs",
+              "RelativeDocumentMoniker": "WebApply\\Controllers\\StudAPIController.cs",
+              "ToolTip": "C:\\Users\\km\\OneDrive\\Desktop\\aspfolder\\WebApply\\WebApply\\Controllers\\StudAPIController.cs",
+              "RelativeToolTip": "WebApply\\Controllers\\StudAPIController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-31T06:08:52.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
     }
   ]
 }
