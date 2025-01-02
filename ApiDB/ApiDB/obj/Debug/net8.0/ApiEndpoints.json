@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "ApiDB.Controllers.StudyController",
+    "Method": "GetStudents",
+    "RelativePath": "api/Study/students",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
