@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "YQzyqJMxljUN1qI4mJqNmav6OMkCXBVdLirN4sEKRSU=",
+  "Source": "AspcrudAPI",
+  "BasePath": "_content/AspcrudAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

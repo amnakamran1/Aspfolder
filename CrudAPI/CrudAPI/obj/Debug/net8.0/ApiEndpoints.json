@@ -1,0 +1,22 @@
+[
+  {
+    "ContainingType": "CrudAPI.Controllers.StudentController",
+    "Method": "GetMyFile",
+    "RelativePath": "api/Student",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "CrudAPI.Models.File",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

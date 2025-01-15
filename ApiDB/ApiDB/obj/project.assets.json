@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Desktop\\aspfolder\\ApiDB\\ApiDB\\ApiDB.csproj",
+      "projectUniqueName": "C:\\Users\\km\\OneDrive\\Desktop\\aspfolder\\ApiDB\\ApiDB\\ApiDB.csproj",
       "projectName": "ApiDB",
-      "projectPath": "C:\\Desktop\\aspfolder\\ApiDB\\ApiDB\\ApiDB.csproj",
+      "projectPath": "C:\\Users\\km\\OneDrive\\Desktop\\aspfolder\\ApiDB\\ApiDB\\ApiDB.csproj",
       "packagesPath": "C:\\Users\\km\\.nuget\\packages\\",
-      "outputPath": "C:\\Desktop\\aspfolder\\ApiDB\\ApiDB\\obj\\",
+      "outputPath": "C:\\Users\\km\\OneDrive\\Desktop\\aspfolder\\ApiDB\\ApiDB\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

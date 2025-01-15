@@ -1,0 +1,188 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desktop\\aspfolder\\ViewCRUD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\controllers\\employcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\views\\employ\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\views\\employ\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\views\\employ\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\views\\employ\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|c:\\desktop\\aspfolder\\viewcrud\\viewcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AFDDC37B-D050-488B-B82A-3FA5C8EA91DA}|ViewCRUD\\ViewCRUD.csproj|solutionrelative:viewcrud\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Program.cs",
+              "RelativeDocumentMoniker": "ViewCRUD\\Program.cs",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Program.cs",
+              "RelativeToolTip": "ViewCRUD\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:36:50.083Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewCRUD\\Views\\Employ\\Index.cshtml",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Index.cshtml",
+              "RelativeToolTip": "ViewCRUD\\Views\\Employ\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB4AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T05:02:28.398Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ViewCRUD\\Views\\Employ\\Delete.cshtml",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Delete.cshtml",
+              "RelativeToolTip": "ViewCRUD\\Views\\Employ\\Delete.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:27:05.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ViewCRUD\\Views\\Employ\\Edit.cshtml",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Edit.cshtml",
+              "RelativeToolTip": "ViewCRUD\\Views\\Employ\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-15T05:12:44.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Create.cshtml",
+              "RelativeDocumentMoniker": "ViewCRUD\\Views\\Employ\\Create.cshtml",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Employ\\Create.cshtml",
+              "RelativeToolTip": "ViewCRUD\\Views\\Employ\\Create.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAACAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T06:23:17.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployController.cs",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Controllers\\EmployController.cs",
+              "RelativeDocumentMoniker": "ViewCRUD\\Controllers\\EmployController.cs",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Controllers\\EmployController.cs",
+              "RelativeToolTip": "ViewCRUD\\Controllers\\EmployController.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAADwv3UAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-09T06:06:39.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\appsettings.json",
+              "RelativeDocumentMoniker": "ViewCRUD\\appsettings.json",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\appsettings.json",
+              "RelativeToolTip": "ViewCRUD\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-14T04:50:42.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ViewCRUD\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ViewCRUD\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T04:21:09.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ViewCRUD\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ViewCRUD\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T04:20:56.524Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ViewCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Desktop\\aspfolder\\ViewCRUD\\ViewCRUD\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ViewCRUD\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-01-14T04:19:56.585Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

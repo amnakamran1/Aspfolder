@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Desktop\\aspfolder\\AspcrudAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C78A33F2-AB2E-4423-9243-068BE093D450}|AspcrudAPI\\AspcrudAPI.csproj|c:\\desktop\\aspfolder\\aspcrudapi\\aspcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C78A33F2-AB2E-4423-9243-068BE093D450}|AspcrudAPI\\AspcrudAPI.csproj|solutionrelative:aspcrudapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Desktop\\aspfolder\\AspcrudAPI\\AspcrudAPI\\Program.cs",
+              "RelativeDocumentMoniker": "AspcrudAPI\\Program.cs",
+              "ToolTip": "C:\\Desktop\\aspfolder\\AspcrudAPI\\AspcrudAPI\\Program.cs",
+              "RelativeToolTip": "AspcrudAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-14T05:37:28.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
